@@ -1,0 +1,12 @@
+# details_w170n50_w166n54_238600
+# do not edit below this line
+# Last Written Mon Mar  7 19:11:03 2022
+#
+OBJECT_STATIC w170n50_w166n54_238600d30.ac -165.78554 54.14297 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -165.79696 54.12530 -0.00 158.956
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -165.79656 54.12539 -0.00 338.956
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -165.80904 54.12699 -0.00 340.634
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -165.80904 54.12718 -0.00 1.39055
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -165.77772 54.13324 -0.00 307.651
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -165.77739 54.13329 0.00 159.854
+# END details_w170n50_w166n54_238600

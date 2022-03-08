@@ -1,0 +1,13 @@
+OBJECT_BASE 222201.btg
+OBJECT PADU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.551223 53.903370 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.538905 53.894769 3.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -166.543901 53.899743 5.5 0.00
+OBJECT PADU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.551223 53.903370 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.538905 53.894769 3.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -166.543901 53.899743 5.5 0.00
+OBJECT PADU.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.551223 53.903370 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -166.538905 53.894769 3.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -166.543901 53.899743 5.5 0.00

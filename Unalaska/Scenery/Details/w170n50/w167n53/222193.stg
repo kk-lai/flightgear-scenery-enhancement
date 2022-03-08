@@ -1,0 +1,23 @@
+# details_w170n50_w167n53_222193
+# do not edit below this line
+# Last Written Mon Mar  7 19:01:56 2022
+#
+OBJECT_STATIC w170n50_w167n53_222193d22.ac -166.59819 53.83985 0.00 0
+OBJECT_STATIC w170n50_w167n53_222193d32.ac -166.53746 53.83985 0.00 0
+OBJECT_STATIC w170n50_w167n53_222193d33.ac -166.53746 53.85782 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac -166.58255 53.84033 0.00 281.264
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac -166.59597 53.83010 0.01 127.393
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac -166.59557 53.83060 0.00 160.608
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac -166.59572 53.83049 0.00 155.25
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac -166.59539 53.83048 0.01 128.694
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac -166.59610 53.83020 -0.00 158.726
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml -166.55639 53.86840 -0.00 134.898
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -166.55345 53.86911 -0.01 311.942
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac -166.55478 53.86964 0.00 41.2974
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -166.55634 53.86878 -0.00 131.864
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac -166.55590 53.86880 -0.00 43.2939
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac -166.55442 53.86820 -0.01 131.526
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac -166.55579 53.86875 -0.00 222.966
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml -166.55217 53.86856 -0.01 51.7137
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -166.58048 53.84358 -0.00 260.8
+# END details_w170n50_w167n53_222193

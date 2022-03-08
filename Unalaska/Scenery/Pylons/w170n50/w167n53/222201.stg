@@ -1,0 +1,10 @@
+# pylons_w170n50_w167n53_222201
+# do not edit below this line
+# Last Written Mon Mar  7 19:03:52 2022
+#
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac -166.53345 53.88829 19.03 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac -166.53301 53.88841 21.81 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac -166.50929 53.91259 8.50 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac -166.50871 53.91290 10.41 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac -166.50964 53.88247 17.83 0
+# END pylons_w170n50_w167n53_222201
