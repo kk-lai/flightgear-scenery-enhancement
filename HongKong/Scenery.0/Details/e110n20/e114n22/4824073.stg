@@ -1,0 +1,14 @@
+# details_e110n20_e114n22_4824073
+# do not edit below this line
+# Last Written Tue Mar  8 20:40:36 2022
+#
+OBJECT_STATIC e110n20_e114n22_4824073d01.ac 114.26939 22.17918 0.00 0
+OBJECT_STATIC e110n20_e114n22_4824073d11.ac 114.30818 22.17918 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 114.25405 22.16476 -0.00 184.311
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 114.30289 22.18305 -0.00 87.5254
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 114.25321 22.16324 -0.01 82.6507
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 114.25334 22.16347 -0.01 262.659
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 114.25306 22.16347 -0.01 261.672
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 114.25321 22.16324 -0.01 82.6507
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 114.25321 22.16324 -0.01 82.6507
+# END details_e110n20_e114n22_4824073

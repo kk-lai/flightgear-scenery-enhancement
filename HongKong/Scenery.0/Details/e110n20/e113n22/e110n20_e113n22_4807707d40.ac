@@ -1,0 +1,69 @@
+AC3Db
+MATERIAL "default" rgb 0.000 0.000 0.000 amb 1.000 1.000 1.000 emis 0 0 0 spec 0.0 0.0 0.0 shi 0 trans 0
+MATERIAL "lit" rgb 1.000 1.000 1.000 amb 1.000 1.000 1.000 emis 0 0 0 spec 0.0 0.0 0.0 shi 0 trans 0
+MATERIAL "cable" rgb 0.300 0.300 0.300 amb 0.300 0.300 0.300 emis 0 0 0 spec 0.0 0.0 0.0 shi 100 trans 0
+MATERIAL "facade" rgb 1.000 1.000 1.000 amb 1.000 1.000 1.000 emis 0 0 0 spec 0.0 0.0 0.0 shi 0 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "details"
+texture "Textures/Terrain/asphalt.png"
+numvert 12
+1590.85 0.998 830.245
+1576.15 0.998 849.835
+1570.18 0.998 862.579
+1571.61 0.998 864.02
+1594.68 0.998 832.767
+1590.85 0.998 830.245
+1590.85 -5.002 830.245
+1576.15 -5.002 849.835
+1570.18 -5.002 862.579
+1571.61 -5.002 864.02
+1594.68 -5.002 832.767
+1590.85 -5.002 830.245
+numsurf 6
+SURF 0
+mat 0
+refs 6
+0 0 0.5
+1 0 0.5
+2 0 0.5
+3 0 0.5
+4 0 0.5
+5 0 0.5
+SURF 0
+mat 0
+refs 4
+6 0 0.5
+7 0 0.5
+1 0 0.5
+0 0 0.5
+SURF 0
+mat 0
+refs 4
+7 0 0.5
+8 0 0.5
+2 0 0.5
+1 0 0.5
+SURF 0
+mat 0
+refs 4
+8 0 0.5
+9 0 0.5
+3 0 0.5
+2 0 0.5
+SURF 0
+mat 0
+refs 4
+9 0 0.5
+10 0 0.5
+4 0 0.5
+3 0 0.5
+SURF 0
+mat 0
+refs 4
+10 0 0.5
+11 0 0.5
+5 0 0.5
+4 0 0.5
+kids 0
