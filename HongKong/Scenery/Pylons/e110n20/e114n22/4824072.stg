@@ -1,0 +1,10 @@
+# pylons_e110n20_e114n22_4824072
+# do not edit below this line
+# Last Written Tue Mar 15 00:45:55 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 114.14461 22.24851 14.67 449.997
+OBJECT_BUILDING_MESH_DETAILED e110n20_e114n22_4824072c33.ac 114.13576 22.23337 0.00 90
+OBJECT_SHARED Models/Industrial/brick_chimney_502m.ac 114.10583 22.21410 -465.17 450
+OBJECT_SHARED Models/Industrial/TPS_Drujba2_chimney.ac 114.10530 22.21702 -85.68 450
+OBJECT_SHARED Models/Industrial/kw_altbach_chimney250.xml 114.10822 22.21899 -32.52 450
+# END pylons_e110n20_e114n22_4824072
