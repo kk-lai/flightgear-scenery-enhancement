@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<PropertyList>
+    <runway>
+        <ils>
+            <lon>113.390739</lon>
+            <lat>22.019964</lat>
+            <rwy>05</rwy>
+            <hdg-deg>44.57</hdg-deg>
+            <elev-m>5.7912</elev-m>
+            <nav-id>IUJ</nav-id>
+        </ils>
+        <ils>
+            <lon>113.362634</lon>
+            <lat>21.993514</lat>
+            <rwy>23</rwy>
+            <hdg-deg>224.57</hdg-deg>
+            <elev-m>5.4864</elev-m>
+            <nav-id>IMA</nav-id>
+        </ils>
+    </runway>
+</PropertyList>
+  
