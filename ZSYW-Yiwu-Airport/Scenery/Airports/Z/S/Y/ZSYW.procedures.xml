@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProceduresDB build='By Kevin King'>
+    <Airport ICAOcode="ZSYW">
+        <Sid Name="SHZ11D" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 166</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>252</Hdg_Crs_value>
+                <RadialtoIntercept>166</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW209</Name>
+                <Type>Normal</Type>
+                <Latitude>29.3825</Latitude>
+                <Longitude>120.175833333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>SHZ</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>120.816666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OSP11D" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 166</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>252</Hdg_Crs_value>
+                <RadialtoIntercept>166</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW308</Name>
+                <Type>Normal</Type>
+                <Latitude>29.229722222</Latitude>
+                <Longitude>119.859166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>OSPAM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.085</Latitude>
+                <Longitude>119.62</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="UGA11D" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 316</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>252</Hdg_Crs_value>
+                <RadialtoIntercept>316</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>D11YEU</Name>
+                <Type>DmeIntc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>316</Hdg_Crs_value>
+                <DMEtoIntercept>11</DMEtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>UGAGO</Name>
+                <Type>Normal</Type>
+                <Latitude>29.628333333</Latitude>
+                <Longitude>119.65</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="ADB11D" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 316</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>252</Hdg_Crs_value>
+                <RadialtoIntercept>316</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>D11YEU</Name>
+                <Type>DmeIntc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>316</Hdg_Crs_value>
+                <DMEtoIntercept>11</DMEtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>ADBAS</Name>
+                <Type>Normal</Type>
+                <Latitude>30.343333333</Latitude>
+                <Longitude>120.266666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="SHZ12D" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1500</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 57</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>285</Hdg_Crs_value>
+                <RadialtoIntercept>57</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW209</Name>
+                <Type>Normal</Type>
+                <Latitude>29.3825</Latitude>
+                <Longitude>120.175833333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>SHZ</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>120.816666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="UGA12D" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1500</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 57</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>285</Hdg_Crs_value>
+                <RadialtoIntercept>57</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>7900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>UGAGO</Name>
+                <Type>Normal</Type>
+                <Latitude>29.628333333</Latitude>
+                <Longitude>119.65</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="ADB12D" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1500</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 57</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>285</Hdg_Crs_value>
+                <RadialtoIntercept>57</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>7900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>ADBAS</Name>
+                <Type>Normal</Type>
+                <Latitude>30.343333333</Latitude>
+                <Longitude>120.266666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OSP12D" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1500</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 57</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>285</Hdg_Crs_value>
+                <RadialtoIntercept>57</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>Intc R240</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>285</Hdg_Crs_value>
+                <RadialtoIntercept>240</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW206</Name>
+                <Type>Hold</Type>
+                <Latitude>29.152777778</Latitude>
+                <Longitude>119.731944444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hld_Turn>Left</Hld_Turn>
+                <Hld_Rad_value>240</Hld_Rad_value>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>OSPAM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.085</Latitude>
+                <Longitude>119.62</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="SHZ61X" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1600</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 166</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>252</Hdg_Crs_value>
+                <RadialtoIntercept>166</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW209</Name>
+                <Type>Normal</Type>
+                <Latitude>29.3825</Latitude>
+                <Longitude>120.175833333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>SHZ</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>120.816666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OSP61X" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1600</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 166</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>252</Hdg_Crs_value>
+                <RadialtoIntercept>166</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW308</Name>
+                <Type>Normal</Type>
+                <Latitude>29.229722222</Latitude>
+                <Longitude>119.859166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>OSPAM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.085</Latitude>
+                <Longitude>119.62</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="UGA61X" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1600</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>UGAGO</Name>
+                <Type>Normal</Type>
+                <Latitude>29.628333333</Latitude>
+                <Longitude>119.65</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="ADB61X" Runways="02">
+            <Sid_Waypoint ID="1">
+                <Name>YW220</Name>
+                <Type>Normal</Type>
+                <Latitude>29.434166667</Latitude>
+                <Longitude>120.075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1600</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>UGAGO</Name>
+                <Type>Normal</Type>
+                <Latitude>29.628333333</Latitude>
+                <Longitude>119.65</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>ADBAS</Name>
+                <Type>Normal</Type>
+                <Latitude>30.343333333</Latitude>
+                <Longitude>120.266666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="SHZ62X" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1700</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>Intc YEU 58</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>285</Hdg_Crs_value>
+                <RadialtoIntercept>58</RadialtoIntercept>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW209</Name>
+                <Type>Normal</Type>
+                <Latitude>29.3825</Latitude>
+                <Longitude>120.175833333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>SHZ</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>120.816666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="UGA62X" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1500</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>YW310</Name>
+                <Type>Normal</Type>
+                <Latitude>29.341111111</Latitude>
+                <Longitude>119.918055556</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YW307</Name>
+                <Type>Normal</Type>
+                <Latitude>29.412777778</Latitude>
+                <Longitude>119.927777778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>7900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>UGAGO</Name>
+                <Type>Normal</Type>
+                <Latitude>29.628333333</Latitude>
+                <Longitude>119.65</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="ADB62X" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1500</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>YW310</Name>
+                <Type>Normal</Type>
+                <Latitude>29.341111111</Latitude>
+                <Longitude>119.918055556</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>YW307</Name>
+                <Type>Normal</Type>
+                <Latitude>29.412777778</Latitude>
+                <Longitude>119.927777778</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5200</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="4">
+                <Name>YW208</Name>
+                <Type>Normal</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>7900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="5">
+                <Name>UPVOM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>119.686666666666</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="6">
+                <Name>ADBAS</Name>
+                <Type>Normal</Type>
+                <Latitude>30.343333333</Latitude>
+                <Longitude>120.266666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Sid Name="OSP62X" Runways="20">
+            <Sid_Waypoint ID="1">
+                <Name>YW202</Name>
+                <Type>Normal</Type>
+                <Latitude>29.217777778</Latitude>
+                <Longitude>119.984444444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1500</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="2">
+                <Name>YW206</Name>
+                <Type>Hold</Type>
+                <Latitude>29.152777778</Latitude>
+                <Longitude>119.731944444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hld_Turn>Left</Hld_Turn>
+                <Hld_Rad_value>240</Hld_Rad_value>
+            </Sid_Waypoint>
+            <Sid_Waypoint ID="3">
+                <Name>OSPAM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.085</Latitude>
+                <Longitude>119.62</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Sid_Waypoint>
+        </Sid>
+        <Star Name="SHZ01A" Runways="02">
+            <Star_Waypoint ID="1">
+                <Name>SHZ</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>120.816666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>YW209</Name>
+                <Type>Normal</Type>
+                <Latitude>29.3825</Latitude>
+                <Longitude>120.175833333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Hold</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>218</Hld_Rad_value>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="OSP01A" Runways="02">
+            <Star_Waypoint ID="1">
+                <Name>OSPAM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.085</Latitude>
+                <Longitude>119.62</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>YW206</Name>
+                <Type>Hold</Type>
+                <Latitude>29.152777778</Latitude>
+                <Longitude>119.731944444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>60</Hld_Rad_value>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="UGA01A" Runways="02">
+            <Star_Waypoint ID="1">
+                <Name>UGAGO</Name>
+                <Type>Normal</Type>
+                <Latitude>29.628333333</Latitude>
+                <Longitude>119.65</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>YW208</Name>
+                <Type>Hold</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>136</Hld_Rad_value>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>D10.4YEU</Name>
+                <Type>DmeIntc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>5900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <DMEtoIntercept>10.4</DMEtoIntercept>
+                <Hdg_Crs_value>136</Hdg_Crs_value>
+            </Star_Waypoint>
+            <Star_Waypoint ID="4">
+                <Name>D5.7YEU</Name>
+                <Type>Intc</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hdg_Crs_value>104</Hdg_Crs_value>
+                <RadialtoIntercept>195</RadialtoIntercept>
+            </Star_Waypoint>
+            <Star_Waypoint ID="5">
+                <Name>YEU</Name>
+                <Type>Hold</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>218</Hld_Rad_value>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="SHZ02A" Runways="20">
+            <Star_Waypoint ID="1">
+                <Name>SHZ</Name>
+                <Type>Normal</Type>
+                <Latitude>29.6</Latitude>
+                <Longitude>120.816666667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>YW209</Name>
+                <Type>Hold</Type>
+                <Latitude>29.3825</Latitude>
+                <Longitude>120.175833333</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Left</Hld_Turn>
+                <Hld_Rad_value>254</Hld_Rad_value>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="OSP02A" Runways="20">
+            <Star_Waypoint ID="1">
+                <Name>OSPAM</Name>
+                <Type>Normal</Type>
+                <Latitude>29.085</Latitude>
+                <Longitude>119.62</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>YW308</Name>
+                <Type>Normal</Type>
+                <Latitude>29.229722222</Latitude>
+                <Longitude>119.859166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="3">
+                <Name>YEU</Name>
+                <Type>Hold</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>36</Hld_Rad_value>
+            </Star_Waypoint>
+        </Star>
+        <Star Name="UGA02A" Runways="20">
+            <Star_Waypoint ID="1">
+                <Name>UGAGO</Name>
+                <Type>Normal</Type>
+                <Latitude>29.628333333</Latitude>
+                <Longitude>119.65</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </Star_Waypoint>
+            <Star_Waypoint ID="2">
+                <Name>YW208</Name>
+                <Type>Hold</Type>
+                <Latitude>29.512777778</Latitude>
+                <Longitude>119.799166667</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>136</Hld_Rad_value>
+            </Star_Waypoint>
+        </Star>
+        <Approach Name="ILS02">
+            <App_Waypoint ID="1">
+                <Name>YW206</Name>
+                <Type>Hold</Type>
+                <Latitude>29.152777778</Latitude>
+                <Longitude>119.731944444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6889.764</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>60</Hld_Rad_value>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>D12.5YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.141233</Latitude>
+                <Longitude>119.935367</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3280.84</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>D11.0IZX</Name>
+                <Type>Normal</Type>
+                <Latitude>29.157787</Latitude>
+                <Longitude>119.963671</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2952.756</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>FAF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.218118</Latitude>
+                <Longitude>119.986225</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>RW02</Name>
+                <Type>Runway</Type>
+                <Latitude>29.329795</Latitude>
+                <Longitude>120.026659</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="ILS02-YEU">
+            <App_Waypoint ID="1">
+                <Name>D11.1YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.176373</Latitude>
+                <Longitude>119.916563</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>D12.5YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.141233</Latitude>
+                <Longitude>119.935367</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3280.84</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>D11.0IZX</Name>
+                <Type>Normal</Type>
+                <Latitude>29.157787</Latitude>
+                <Longitude>119.963671</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2952.756</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>FAF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.218118</Latitude>
+                <Longitude>119.986225</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>RW02</Name>
+                <Type>Runway</Type>
+                <Latitude>29.329795</Latitude>
+                <Longitude>120.026659</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="VOR02-YEU">
+            <App_Waypoint ID="1">
+                <Name>D11.1YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.187474</Latitude>
+                <Longitude>119.898756</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>D12.5YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.147468</Latitude>
+                <Longitude>119.920411</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>IF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.162681</Latitude>
+                <Longitude>119.946005</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>FAF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.220943</Latitude>
+                <Longitude>119.974768</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>MAPt</Name>
+                <Type>Normal</Type>
+                <Latitude>29.309867</Latitude>
+                <Longitude>120.018705</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="6">
+                <Name>RW02</Name>
+                <Type>Runway</Type>
+                <Latitude>29.329795</Latitude>
+                <Longitude>120.026659</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="VOR02">
+            <App_Waypoint ID="1">
+                <Name>YW206</Name>
+                <Type>Hold</Type>
+                <Latitude>29.152777778</Latitude>
+                <Longitude>119.731944444</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Left</Hld_Turn>
+                <Hld_Rad_value>240</Hld_Rad_value>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>D12.5YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.147468</Latitude>
+                <Longitude>119.920411</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>IF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.162681</Latitude>
+                <Longitude>119.946005</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>FAF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.220943</Latitude>
+                <Longitude>119.974768</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>MAPt</Name>
+                <Type>Normal</Type>
+                <Latitude>29.309867</Latitude>
+                <Longitude>120.018705</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="6">
+                <Name>RW02</Name>
+                <Type>Runway</Type>
+                <Latitude>29.329795</Latitude>
+                <Longitude>120.026659</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="VOR20W">
+            <App_Waypoint ID="1">
+                <Name>IAF</Name>
+                <Type>Hold</Type>
+                <Latitude>29.508065</Latitude>
+                <Longitude>119.794408</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>above</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>136</Hld_Rad_value>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>R352</Name>
+                <Type>Normal</Type>
+                <Latitude>29.558577</Latitude>
+                <Longitude>119.967587</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>R014</Name>
+                <Type>Normal</Type>
+                <Latitude>29.562628</Latitude>
+                <Longitude>120.068761</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3600</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>IF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.531017</Latitude>
+                <Longitude>120.09234</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>D7.6YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.455295</Latitude>
+                <Longitude>120.06855</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="6">
+                <Name>D5.0YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.413408</Latitude>
+                <Longitude>120.055398</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1400</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="7">
+                <Name>MAPt</Name>
+                <Type>Normal</Type>
+                <Latitude>29.38119</Latitude>
+                <Longitude>120.04527</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="8">
+                <Name>RW20</Name>
+                <Type>Runway</Type>
+                <Latitude>29.355567</Latitude>
+                <Longitude>120.036385</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="VOR20YEU">
+            <App_Waypoint ID="1">
+                <Name>YEU</Name>
+                <Type>Hold</Type>
+                <Latitude>29.332863889</Latitude>
+                <Longitude>120.030075</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Right</Hld_Turn>
+                <Hld_Rad_value>36</Hld_Rad_value>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>D12.3YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.510043</Latitude>
+                <Longitude>120.149016</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>D13.8YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.539395</Latitude>
+                <Longitude>120.147188</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3800</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>IF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.531017</Latitude>
+                <Longitude>120.09234</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>D7.6YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.455295</Latitude>
+                <Longitude>120.06855</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="6">
+                <Name>D5.0YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.413408</Latitude>
+                <Longitude>120.055398</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1400</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="7">
+                <Name>MAPt</Name>
+                <Type>Normal</Type>
+                <Latitude>29.38119</Latitude>
+                <Longitude>120.04527</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="8">
+                <Name>RW20</Name>
+                <Type>Runway</Type>
+                <Latitude>29.355567</Latitude>
+                <Longitude>120.036385</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+        <Approach Name="VOR20E">
+            <App_Waypoint ID="1">
+                <Name>D15.3YEU</Name>
+                <Type>Hold</Type>
+                <Latitude>29.426742</Latitude>
+                <Longitude>120.301559</Longitude>
+                <Speed>0</Speed>
+                <Altitude>6900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+                <Hld_Turn>Left</Hld_Turn>
+                <Hld_Rad_value>254</Hld_Rad_value>
+            </App_Waypoint>
+            <App_Waypoint ID="2">
+                <Name>R052</Name>
+                <Type>Normal</Type>
+                <Latitude>29.47801</Latitude>
+                <Longitude>120.204227</Longitude>
+                <Speed>0</Speed>
+                <Altitude>4900</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="3">
+                <Name>R032</Name>
+                <Type>Normal</Type>
+                <Latitude>29.539384</Latitude>
+                <Longitude>120.147215</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3800</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="4">
+                <Name>IF</Name>
+                <Type>Normal</Type>
+                <Latitude>29.531017</Latitude>
+                <Longitude>120.09234</Longitude>
+                <Speed>0</Speed>
+                <Altitude>3300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="5">
+                <Name>D7.6YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.455295</Latitude>
+                <Longitude>120.06855</Longitude>
+                <Speed>0</Speed>
+                <Altitude>2300</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="6">
+                <Name>D5.0YEU</Name>
+                <Type>Normal</Type>
+                <Latitude>29.413408</Latitude>
+                <Longitude>120.055398</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1400</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="7">
+                <Name>MAPt</Name>
+                <Type>Normal</Type>
+                <Latitude>29.38119</Latitude>
+                <Longitude>120.04527</Longitude>
+                <Speed>0</Speed>
+                <Altitude>1000</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+            <App_Waypoint ID="8">
+                <Name>RW20</Name>
+                <Type>Runway</Type>
+                <Latitude>29.355567</Latitude>
+                <Longitude>120.036385</Longitude>
+                <Speed>0</Speed>
+                <Altitude>0</Altitude>
+                <AltitudeCons>0</AltitudeCons>
+                <AltitudeRestriction>at</AltitudeRestriction>
+            </App_Waypoint>
+        </Approach>
+    </Airport>
+</ProceduresDB>
