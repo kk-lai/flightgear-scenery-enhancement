@@ -1,4 +1,4 @@
-OBJECT_SHARED D:/Flightgear-Data/fg-Download/TerraSync/Models/Airport/localizer-only.xml 120.03758156 29.35885095 75.6693 340.0 0.0 -0.0
-OBJECT_SHARED D:/Flightgear-Data/fg-Download/TerraSync/Models/Airport/ilssta1.ac 120.03759566 29.35889315 75.4111 252.0 0.0 -0.0
-OBJECT_SHARED D:/Flightgear-Data/fg-Download/TerraSync/Models/Communications/vordme_2.ac 120.02999224 29.33291538 81.8921 0.0 0.0 -0.0
-OBJECT_SHARED D:/Flightgear-Data/fg-Download/TerraSync/Models/Airport/EUROPOLES_GLS.xml 120.02899311 29.33246157 82.6831 340.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/localizer-only.xml 120.03758156 29.35885095 75.6693 340.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/ilssta1.ac 120.03759566 29.35889315 75.4111 252.0 0.0 -0.0
+OBJECT_SHARED Models/Communications/vordme_2.ac 120.02999224 29.33291538 81.8921 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 120.02899311 29.33246157 82.6831 340.0 0.0 -0.0
